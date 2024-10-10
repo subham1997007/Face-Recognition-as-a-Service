@@ -5,8 +5,8 @@ import time
 import datetime
 import logging  
 import io
-aws_access_key_id ='AKIA3ALSFYMVNU6GKYSS'
-aws_secret_access_key = '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'
+aws_access_key_id ='**********'
+aws_secret_access_key = '********+***************+******'
 region_name = 'us-east-1'
 request_queue_url = 'https://sqs.us-east-1.amazonaws.com/756690567978/req'
 response_queue_url = 'https://sqs.us-east-1.amazonaws.com/756690567978/res'
